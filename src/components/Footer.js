@@ -13,7 +13,7 @@ export default function Footer() {
         </a>        
         <img className="icon-size" src={facebook} alt=""/>
         <img className="icon-size" src={instagram} alt=""/>
-        <a href="https://www.linkedin.com/in/elvisbicharri/" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/cheddarking" target="_blank" rel="noopener noreferrer">
             <img className="icon-size" src={github} alt=""/>
         </a>
         
