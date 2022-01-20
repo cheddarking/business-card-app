@@ -1,6 +1,6 @@
 # Digital Business Card single page app 
 
-This project was part of the React course on [Scrimba](https://scrimba.com/).
+This project was part of the [React course on Scrimba](https://scrimba.com/learn/learnreact).
 
 # Getting Started with Create React App
 
