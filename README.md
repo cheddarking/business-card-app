@@ -1,3 +1,7 @@
+# Digital Business Card single page app 
+
+This project was part of the React course on [Scrimba](https://scrimba.com/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
